@@ -1,0 +1,13 @@
+Designing RESTful API - JSON
+
+GET /users - List all users
+GET /users/1 - GET the user with the ID 1
+GET /users/2 - GET the user with the ID 2
+
+Dynamic path parameters
+
+POST /users - CREATE new user
+
+PATCH /user/id - EDIT the user with ID id
+
+DELETE /users/id - Delete the user with ID id
